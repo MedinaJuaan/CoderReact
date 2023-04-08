@@ -18,18 +18,18 @@
 
 ### **Detalle de producto**
 
-![Detalle de producto](/src/assets/Images/Misc//Readme/detalle.png)
+![Detalle de producto](https://github.com/MedinaJuaan/CoderReact/blob/main/src/assets/Images/Readme/detalle.png?raw=true)
 
 ### **Carrito de compras**
 
-![Carrito de compras](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/carrito.png)
+![Carrito de compras](https://github.com/MedinaJuaan/CoderReact/blob/main/src/assets/Images/Readme/carrito.png?raw=true)
 
 ### **Formulario de checkout**
 
-![Formulario de checkout](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/formulario.png)
+![Formulario de checkout](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/formulario.png?raw=true)
 
 ### **Mensaje de orden generada**
 
-![Mensaje de orden generada](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/thankyou.png)
+![Mensaje de orden generada](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/thankyou.png?raw=true)
 
 
