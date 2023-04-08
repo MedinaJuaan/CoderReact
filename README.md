@@ -2,7 +2,7 @@
 
 ## Proyecto final para curso de React JS dictado por Coder House.
 
-### [URL]: https://coder-react-c687.vercel.app/
+### URL: https://coder-react-c687.vercel.app/
 
 - Proyecto realizado utilizando React JS, a partir de la herramienta de compilación Vite.
 - Para la navegación y funcionalidad, se utilizó React Router, y Context.
@@ -26,10 +26,10 @@
 
 ### **Formulario de checkout**
 
-![Formulario de checkout](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/formulario.png?raw=true)
+![Formulario de checkout](/src/assets/Images/Readme/formulario.png)
 
 ### **Mensaje de orden generada**
 
-![Mensaje de orden generada](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/thankyou.png?raw=true)
+![Mensaje de orden generada](/src/assets/Images/Readme/thankyou.png)
 
 
