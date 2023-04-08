@@ -1,0 +1,35 @@
+.item-card {
+    height: 508px;
+
+}
+
+.card-img {
+    height: 310px;
+    object-fit: contain;
+}
+
+.card-info {
+    text-align: center;
+}
+
+.info-btn{
+    background-color: #2c1cc2;
+    border: 1px solid #2c1cc2;
+    border-radius: 6px;
+    color: #dadada;
+    font-weight: 600;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    width: 162px;
+}
+
+.info-btn:hover {
+    border: 1px solid #2c1cc2;
+    background-color: #7398ff;
+    color: #2c1cc2;
+}
+
+.divider{
+    border-bottom: solid 2px #2c1cc2;
+}
