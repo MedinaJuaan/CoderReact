@@ -3,6 +3,7 @@ import NavBar from "../Components/NavBar";
 import { Context } from "../context";
 import { Container, Table } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import trash from '../assets/Images/Misc/trash3.svg'
 import '../index.css'
 
 
@@ -38,7 +39,7 @@ function Cart() {
                 <td>${product.price}</td>
                 <td>${product.price * product.quantity}</td>
                 <td className='align-middle'>
-                <Link onClick={() => { removeItem(product.id) }} title='Eliminar producto'><img src={"../src/assets/Images/Misc/trash3.svg"} alt={"Eliminar producto"} /></Link>
+                <Link onClick={() => { removeItem(product.id) }} title='Eliminar producto'><img src={trash} alt={"Eliminar producto"} /></Link>
 
                 </td>
               </tr>
