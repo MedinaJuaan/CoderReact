@@ -14,11 +14,11 @@
 
 ### **Listado de productos**
 
-![Listado productos](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/listado.png)
+![Listado productos](https://github.com/MedinaJuaan/CoderReact/blob/main/src/assets/Images/Readme/listado.png?raw=true)
 
 ### **Detalle de producto**
 
-![Detalle de producto](https://github.com/MedinaJuaan/CoderReact/tree/main/src/assets/Images/Readme/detalle.png)
+![Detalle de producto](/src/assets/Images/Misc//Readme/detalle.png)
 
 ### **Carrito de compras**
 
