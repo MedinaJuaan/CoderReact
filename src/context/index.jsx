@@ -67,7 +67,7 @@ function updateOrder(productId, finalStock) {
   );
 }
 
-function sendOrder() {
+function sendOrder(formData) {
   const total = productsAdded.reduce(
     (acc, product) => acc + product.quantity * product.price,
     0

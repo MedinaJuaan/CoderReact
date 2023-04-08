@@ -20,6 +20,7 @@ const firebaseConfig = {
   appId: "1:605779131087:web:2c487b033d2864c563d5ba",
 };
 
+
 initializeApp(firebaseConfig);
 
 const router = createBrowserRouter([

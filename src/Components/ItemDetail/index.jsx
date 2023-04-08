@@ -27,7 +27,8 @@ const ItemDetail = ({ product }) => {
           <hr />
           <p className="detail-text">{product.description}</p>
           <hr />
-          <p className="detail-price">Precio por unidad: ${product.price}</p>
+          <p className="detail-price stock">Quedan {product.stock} unidades disponibles</p>
+          <p className="detail-price total">Precio: ${product.price}</p>
           <div className="detail-cart">
           <div >
             {added == 0 && (

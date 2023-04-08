@@ -62,3 +62,12 @@ hr {
   background-color: #7398ff;
   color: #2c1cc2;
 }
+
+.stock{
+  color: #7398ff
+}
+
+.total{
+  color: #2c1cc2;
+  font-size: 22px;
+}

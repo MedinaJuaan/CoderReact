@@ -8,7 +8,7 @@ import logo from "../../assets/Images/Misc/logo_full.png";
 
 function NavBar() {
   return (
-    <Navbar bg="dark" variant="dark">
+    <Navbar className="navbar-containter">
       <Container>
       <Navbar.Brand>
           <Link to="/" style={{ cursor: "pointer" }} className="nav-link">
@@ -17,12 +17,12 @@ function NavBar() {
         </Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link>
-            <Link to={"/category/cctv"} className="nav-link">
+            <Link to={"/category/cctv"} className="navbarlinks">
               Cctv
             </Link>
           </Nav.Link>
           <Nav.Link>
-            <Link to={"/category/alarma"} className="nav-link">
+            <Link to={"/category/alarma"} className="navbarlinks">
               Alarma
             </Link>
           </Nav.Link>

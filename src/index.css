@@ -34,3 +34,17 @@
 .form-container{
     width: 500px;
 }
+
+.navbar-containter{
+    background-color: #444444;
+}
+
+.navbarlinks{
+    color: #dadada;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 0.5rem 1.5rem;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
